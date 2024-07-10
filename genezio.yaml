@@ -13,5 +13,5 @@ frontend:
     deploy:
       - npm install
       - npm run build
-  subdomain: apricot-acute-goldfish
+  subdomain: lista-summerit
 yamlVersion: 2
