@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.GENEZIO_TOKEN }}
       - name: Build frontend
-        working-directory: ./client
+        working-directory: ./
         run: npm install && npm run build
         env:
           CI: false
