@@ -3,4 +3,5 @@ export const participants = [
   { name: "Miloiu Cristi", github: "cristim67" },
   { name: "Popirtac Dragos", github: "d0ghe" },
   { name: "Nitu Tiberiu-Florian", github: "Silentnvm" },
+  { name: "Nazemian Darius", github: "dariusnp" },
 ];
