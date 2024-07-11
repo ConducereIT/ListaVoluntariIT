@@ -5,4 +5,5 @@ export const participants = [
   { name: "Nitu Tiberiu-Florian", github: "Silentnvm" },
   { name: "Nazemian Darius", github: "dariusnp" },
   { name: "Dinu Tiberiu-George", github: "TibiAS" },
+  { name: "Plamadeala Catarina", github: "catarinaplamadeala"}
 ];
