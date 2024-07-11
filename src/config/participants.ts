@@ -4,7 +4,7 @@ export const participants = [
   { name: "Popirtac Dragos", github: "d0ghe" },
   { name: "Nitu Tiberiu-Florian", github: "Silentnvm" },
   { name: "Nazemian Darius", github: "dariusnp" },
-  { name: "Andreea Vilcu", github: "Andreea1129" }
+  { name: "Andreea Vilcu", github: "Andreea1129" },
   { name: "Dinu Tiberiu-George", github: "TibiAS" },
-  { name: "Plamadeala Catarina", github: "catarinaplamadeala"}
+  { name: "Plamadeala Catarina", github: "catarinaplamadeala" },
 ];
