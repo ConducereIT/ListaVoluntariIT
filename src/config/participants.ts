@@ -11,4 +11,5 @@ export const participants = [
   { name: "Busescu Florian-Constantin", github: "tatamare123" },
   { name: "Cocor Erwin", github: "wazyraf" },
   { name: "Petcu David Andrei", github: "HardtoPronounce"},
+  { name: "Grecu Stefan-Cristian", github: "stefancristian236"},
 ];
