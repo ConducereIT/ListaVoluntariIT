@@ -6,8 +6,7 @@ function App() {
     <>
       <div className="bg-gray-900 min-h-screen flex flex-col items-center py-10">
         <h1 className="text-2xl md:text-4xl font-bold text-white my-10">
-          Lista Participanți Web Dev{" "}
-          <span className="text-blue-500">SummerIT</span>{" "}
+          Lista Voluntari Web Dev <span className="text-blue-500">IT</span>{" "}
         </h1>
         <div className="overflow-x-auto shadow-lg rounded-lg w-full max-w-4xl mx-8">
           <table className="min-w-full divide-y divide-gray-700 border border-gray-700 bg-gray-800">

@@ -1,4 +1,4 @@
-name: ListaSummerIT
+name: ListaVoluntariIT
 region: eu-central-1
 frontend:
   # Specifies the path of your code.
@@ -13,5 +13,5 @@ frontend:
     deploy:
       - npm install
       - npm run build
-  subdomain: lista-summerit
+  subdomain: lista-voluntari-it
 yamlVersion: 2
